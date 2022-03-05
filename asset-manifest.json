@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/8th-march/static/css/main.91aa9910.css",
+    "main.js": "/8th-march/static/js/main.98fa669d.js",
+    "static/media/MontserratAlternates-Regular.ttf": "/8th-march/static/media/MontserratAlternates-Regular.17043267bfe178ef8921.ttf",
+    "index.html": "/8th-march/index.html",
+    "main.91aa9910.css.map": "/8th-march/static/css/main.91aa9910.css.map",
+    "main.98fa669d.js.map": "/8th-march/static/js/main.98fa669d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91aa9910.css",
+    "static/js/main.98fa669d.js"
+  ]
+}
